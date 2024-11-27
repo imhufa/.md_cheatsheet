@@ -5,27 +5,27 @@ _This repo is primarily a "learn-by-example" project to self-educate myself on m
 ## Table of Contents
 ***
 
-1. [Heading](###heading)
-2. [Paragraph](###paragraph)
-3. [Emphasis](###emphasis)
-4. [Tbc](###Tbc)
+1. [Heading](#heading)
+2. [Paragraph](#paragraph)
+3. [Emphasis](#emphasis)
+4. [Tbc](#Tbc)
 
-### Heading {###heading}
+### Heading
 ---
 
-#      ``# This is Heading 1``<br>
-##     ``## This is Heading 2``<br>
-###    ``### This is Heading 3``<br>
-####   ``#### This is Heading 4``<br>
-#####  ``##### This is Heading 5``<br>
-###### ``###### This is Heading 6``<br>
+Heading 1 `#`      ``# This is Heading 1``<br>
+Heading 2 `##`     ``## This is Heading 2``<br>
+Heading 3 `###`    ``### This is Heading 3``<br>
+Heading 4 `####`   ``#### This is Heading 4``<br>
+Heading 5 `#####`  ``##### This is Heading 5``<br>
+Heading 6 `######` ``###### This is Heading 6``<br>
 
-### Paragraph {###paragraph}
+### Paragraph
 -----
 
 Type it like it's hot. ``Type it like it's hot.``
 
-### Emphasis {###emphasis}
+### Emphasis
 -----
 
 ``** __``     bold text       `**bold** __bold too__` **bold** __bold too__<br>
@@ -36,7 +36,7 @@ Type it like it's hot. ``Type it like it's hot.``
 ``^ ^``       superscript     `e=mc^2^` e=mc^2^<br>
 ``==``        highlight       `==highlight==!` ==highlight==!<br>
 
-### Tbc {###Tbc}
+### Tbc
 
 <p style="text-align:center;"><strong>TBD next update</strong></p>
 
