@@ -1,5 +1,4 @@
 # Markdown Cheat Sheet
-!WARNING: Under Construction
 _This repo is primarily a "learn-by-example" project to self-educate myself on markdown syntax and structure. If you believe this could possibly help you as well, feel free to clone it._
 
 ## Table of Contents
