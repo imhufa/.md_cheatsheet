@@ -11,34 +11,30 @@ _This repo is primarily a "learn-by-example" project to self-educate myself on m
 4. [Tbc](#Tbc)
 
 ### Heading {#heading}
-***
+---
 
-<pre>
-#      ``# This is Heading 1``
-##     ``## This is Heading 2``
-###    ``### This is Heading 3``
-####   ``#### This is Heading 4``
-#####  ``##### This is Heading 5``
-###### ``###### This is Heading 6``
-</pre>
+#      ``# This is Heading 1``<br>
+##     ``## This is Heading 2``<br>
+###    ``### This is Heading 3``<br>
+####   ``#### This is Heading 4``<br>
+#####  ``##### This is Heading 5``<br>
+###### ``###### This is Heading 6``<br>
 
 ### Paragraph {#paragraph}
-***
+-----
 
 Type it like it's hot. ``Type it like it's hot.``
 
 ### Emphasis {#emphasis}
-***
+-----
 
-<pre>
-``** __``     bold text       `**bold** __bold too__`
-``* _``       italic text     `*italic* _italic too_`
-``~~``        strikethrough   `~~strikethrough~~`
-``combine!``  combine em!     `**_italicbold_** ~~_italicstrikethrough_~~`
-``~ ~``       subscript       `CO~2~`
-``^ ^``       superscript     `e=mc^2^`
-``==``        highlight       `==highlight==!`
-</pre>
+``** __``     bold text       `**bold** __bold too__`<br>
+``* _``       italic text     `*italic* _italic too_`<br>
+``~~``        strikethrough   `~~strikethrough~~`<br>
+``combine!``  combine em!     `**_italicbold_** ~~_italicstrikethrough_~~`<br>
+``~ ~``       subscript       `CO~2~`<br>
+``^ ^``       superscript     `e=mc^2^`<br>
+``==``        highlight       `==highlight==!`<br>
 
 ### Tbc {#Tbc}
 
