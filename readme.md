@@ -5,12 +5,12 @@ _This repo is primarily a "learn-by-example" project to self-educate myself on m
 ## Table of Contents
 ***
 
-1. [Heading](#heading)
-2. [Paragraph](#paragraph)
-3. [Emphasis](#emphasis)
-4. [Tbc](#Tbc)
+1. [Heading](###heading)
+2. [Paragraph](###paragraph)
+3. [Emphasis](###emphasis)
+4. [Tbc](###Tbc)
 
-### Heading {#heading}
+### Heading {###heading}
 ---
 
 #      ``# This is Heading 1``<br>
@@ -20,23 +20,23 @@ _This repo is primarily a "learn-by-example" project to self-educate myself on m
 #####  ``##### This is Heading 5``<br>
 ###### ``###### This is Heading 6``<br>
 
-### Paragraph {#paragraph}
+### Paragraph {###paragraph}
 -----
 
 Type it like it's hot. ``Type it like it's hot.``
 
-### Emphasis {#emphasis}
+### Emphasis {###emphasis}
 -----
 
-``** __``     bold text       `**bold** __bold too__`<br>
-``* _``       italic text     `*italic* _italic too_`<br>
-``~~``        strikethrough   `~~strikethrough~~`<br>
-``combine!``  combine em!     `**_italicbold_** ~~_italicstrikethrough_~~`<br>
-``~ ~``       subscript       `CO~2~`<br>
-``^ ^``       superscript     `e=mc^2^`<br>
-``==``        highlight       `==highlight==!`<br>
+``** __``     bold text       `**bold** __bold too__` **bold** __bold too__<br>
+``* _``       italic text     `*italic* _italic too_` *italic* _italic too_<br>
+``~~``        strikethrough   `~~strikethrough~~` ~~strikethrough~~<br>
+``combine!``  combine em!     `**_italicbold_** ~~_italicstrikethrough_~~` **_italicbold_** ~~_italicstrikethrough_~~<br>
+``~ ~``       subscript       `CO~2~` CO~2~<br>
+``^ ^``       superscript     `e=mc^2^` e=mc^2^<br>
+``==``        highlight       `==highlight==!` ==highlight==!<br>
 
-### Tbc {#Tbc}
+### Tbc {###Tbc}
 
 <p style="text-align:center;"><strong>TBD next update</strong></p>
 
